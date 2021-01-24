@@ -138,6 +138,7 @@
     .first .three {
       right: 0;
       padding: 15px;
+      max-width: 380px;
       align-content: center;
       align-items: center; }
     .first .review-text p {
