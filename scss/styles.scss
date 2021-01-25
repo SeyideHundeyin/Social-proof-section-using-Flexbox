@@ -171,7 +171,8 @@
     .three {
       right: 0;
       padding: 15px;
-      max-width: 380px;
+      width: 300px;
+      margin: 20px auto;
       align-content: center;
       align-items: center;
     }
@@ -188,7 +189,7 @@
     flex-direction: column;
     padding: 0rem;
     align-items: center;
-    width: 94%;
+    width: 90%;
     margin: auto;
     background-image: url(/images/bg-pattern-bottom-mobile.svg);
     background-repeat: no-repeat;
